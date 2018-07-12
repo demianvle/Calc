@@ -1,0 +1,35 @@
+input{
+background-color: black;
+text-align: center;
+font-family: monospace;
+color:white;
+height:30px;
+width:30px;
+
+}
+#C{
+width:64px;
+}
+#screen{
+  width: 130px;
+  height: 30px;
+  margin-bottom: 5px;
+  background-color: black;
+  color: lightgreen;
+  font-family: monospace;
+  font-weight: bold;
+
+}
+body{
+  background-color: black;
+  color: white;
+}
+.calc{
+  border-color: black;
+  border:5px;
+  border-style: ridge;
+  width: 133px;
+  position: relative;
+  left: 40%;
+  top: 10px;
+}
